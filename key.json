@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "manicure-bot-project-master",
+  "private_key_id": "de46a29635e94885e21276ccddf3fb819c3158ad",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCUO/5jCac3Wflj\nTthuyEa7WU20aU7smnKa/9VNw6L0n+TrZOI79G77D4EfbVPKEqiEojcjfhGDICNE\nYlDkzottZm90IlsyO1uqHOTJw7QaJ/Wq64/JQwce8ZpZIjeJw7tk4Tb+s4Z31VK9\ncc0gMOuvhV6E/2+IvgXJDTsVL5/FxXUESn23niBJBbkCYDRTMzq+qYQzeeFLgwDc\nATgGlWUS8FC13L+7dw7neWA9rGmmhWnVfULrvv3gdcsxKfQH8hOuN5PvYfh72OA6\n8gmBceAMGfMBvMQ9BkLNiyRsRI+5uE7ppw4NuXMfc9GOqEa5AKXH3/6Z/1GPPcVv\n3RY9FywpAgMBAAECggEABsYGorQcuEp77l4UEfZER468a1uKizfaUWhFiqpymYOh\nVfsddi7kgvcBtMcHcD4en2m7Y+Hm+MGkF7cqyiHNowY7K1vfvfGSoTkO+h2sVUU9\n+rCNhZCMbg1Abjh1jQdTWoTXp5dAtELpTa9td6SbCHS4NBMC0wVLEpWKFx0LfuGs\nQrZl9yD/QDi7jNKI6a4mui1cEVk0csLZVDlnYEUfaaMVFtK2Pd/Muj+e/vp5LrZp\n68PofmFesiIpT2ANwt279Sz9HQ/H1q3gbKKKt2vX7Lj0F6CaIZ4Hxe4qFEFKmQ4S\nA7MvNGRczOUljIMOaTL5v833KpgjSCN6lIEfjMyknwKBgQDLhIYDS8stVIpJumcm\ncTMbHdrLKu7NqJ7g5B6w5FJneDCmWMB5wy6J1fHbeycm04vxaYBC+17AB6Nl7zK9\nxM03WFGukymZwjPaoIL8LNsciwY9V2UXmRDPR6/P+7HrrECGgY5Rvp60xWlF7KKw\nTuJIXFLhGOD1aIfKwpzubuo3owKBgQC6dd82CAhlRYozRDRM6L1eQGY9bkwx10Ah\n7Z2KvlbQ4exjfyilWr/JlH7scaEbTB+NAh0IxT5f7eW8p1ycQrD53pnDtZPWmEL8\n9bVVOdXzJcXkV2xSh52Om5ELCoy85iF2niPSkAYrCke/nGWB8eCh7dHQHmsB3Vn/\nFtUBNz65wwKBgCQRraqh4TV8eTHN7oAaqeMRbHh7eG1MiDP1WhchsBUUcRLaQeqS\nlAnrt/ydG/g+n9u+RfQZFtbTw7rKJOULHw/DAF7/R+0vRP9nWS+WR5MMdKOkfI8t\nGpSR8O/cfND260yrY2zLatdA8YJqCP9US7hlXG72eNAloYNm8Gc1kx8fAoGAe0JO\nQs5+lkuo9wjgNfMos7SIoZVXIx9y0rrcCQqYI08l0AQQH3blD2FtoenfoUbqGHHM\nNa8F8640z0gnbVic2yCurvRKfXJ73fKjY2pvJ2PR9IdiIRBrNAlckVrw/DJ47ovN\njHUOzsbl9SFy7LqzTvgCWbyx6jKkOn+iYUJe4bcCgYEAyLK43QFzoDJh6VWz/Dhk\nLtAqRwJrUQZQdML2K+ciamr0pjpMUhrSKPix9iUK3evOg/kvTqLH+oJqIjXAQEAm\nLs3Qg+mjTGujs57V8BwfFLEWJXccCdFCdUe0BnG+JtVKZNH2QnXbE8AV8eNj96/P\nNhTtpUcGP7QWjkHGEGC8fYo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "manicure-bot-sheets-access-439@manicure-bot-project-master.iam.gserviceaccount.com",
+  "client_id": "106256495267501359524",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/manicure-bot-sheets-access-439%40manicure-bot-project-master.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
